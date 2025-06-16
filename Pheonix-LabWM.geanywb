@@ -1,0 +1,13 @@
+[General]
+filetype=workbench
+version=1.0
+RescanProjectsOnOpen=true
+EnableLiveUpdate=true
+ExpandOnHover=false
+EnableTreeLines=false
+Bookmarks=1õW;
+
+[Project-1]
+AbsFilename=/home/Akshobhya/Documents/Low-Level-Apps/Pheonix-LabWM/Pheonix-LabWM
+RelFilename=../Pheonix-LabWM
+UseAbsFilename=false
