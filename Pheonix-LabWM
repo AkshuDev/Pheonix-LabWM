@@ -27,11 +27,13 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=2
+current_page=5
 FILE_NAME_0=249;C;0;EUTF-8;1;1;0;%2Fhome%2FAkshobhya%2FDocuments%2FLow-Level-Apps%2FPheonix-LabWM%2Fsrc%2Fp-labwm.c;0;4
-FILE_NAME_1=65;C++;0;EUTF-8;1;1;0;%2Fhome%2FAkshobhya%2FDocuments%2FLow-Level-Apps%2FPheonix-LabWM%2Fsrc%2Finclude%2Ferrcodes.h;0;4
-FILE_NAME_2=851;C;0;EUTF-8;1;1;0;%2Fhome%2FAkshobhya%2FDocuments%2FLow-Level-Apps%2FPheonix-LabWM%2Fsrc%2Flayout.c;0;4
-FILE_NAME_3=87;C++;0;EUTF-8;1;1;0;%2Fhome%2FAkshobhya%2FDocuments%2FLow-Level-Apps%2FPheonix-LabWM%2Fsrc%2Finclude%2Flayout.h;0;4
+FILE_NAME_1=329;C++;0;EUTF-8;1;1;0;%2Fhome%2FAkshobhya%2FDocuments%2FLow-Level-Apps%2FPheonix-LabWM%2Fsrc%2Finclude%2Fplabwm.h;0;4
+FILE_NAME_2=65;C++;0;EUTF-8;1;1;0;%2Fhome%2FAkshobhya%2FDocuments%2FLow-Level-Apps%2FPheonix-LabWM%2Fsrc%2Finclude%2Ferrcodes.h;0;4
+FILE_NAME_3=1009;C;0;EUTF-8;1;1;0;%2Fhome%2FAkshobhya%2FDocuments%2FLow-Level-Apps%2FPheonix-LabWM%2Fsrc%2Flayout.c;0;4
+FILE_NAME_4=87;C++;0;EUTF-8;1;1;0;%2Fhome%2FAkshobhya%2FDocuments%2FLow-Level-Apps%2FPheonix-LabWM%2Fsrc%2Finclude%2Flayout.h;0;4
+FILE_NAME_5=429;C;0;EUTF-8;1;1;0;%2Fhome%2FAkshobhya%2FDocuments%2FLow-Level-Apps%2FPheonix-LabWM%2Fsrc%2Fipc.c;0;4
 
 [VTE]
 last_dir=/home/Akshobhya

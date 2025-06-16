@@ -1,0 +1,3 @@
+[submodule "labwc_src"]
+	path = labwc_src
+	url = https://github.com/labwc/labwc.git
